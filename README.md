@@ -1,3 +1,5 @@
+<h3>#This repository was copied: https://github.com/termux-lab/smsham</h3>
+
 # smsham Made in Termux-Lab
 python3<br>
 # pip
@@ -8,4 +10,3 @@ git clone https://github.com/termux-lab/smsham.git
 cd smsham<br>
 python3 smsham.py<br>
 >> number phone
-
